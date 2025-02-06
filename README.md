@@ -69,8 +69,3 @@ Falls du Vorschläge oder Ideen für neue Features hast, **kontaktiere uns!**
 📌 **Kein Open-Source-Projekt** – Alle Rechte vorbehalten.  
 📌 **Quellcode nicht öffentlich zugänglich** *(geschütztes Eigentum)*  
 
----
-
-Falls du noch Ergänzungen oder weitere Änderungen möchtest, lass es mich wissen! 🚀😊  
-```
-
