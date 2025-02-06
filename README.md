@@ -28,6 +28,11 @@ Der **modulare Aufbau** ermöglicht eine zukünftige **Erweiterung & Wiederverwe
 - **Modularer Code** – Wiederverwendbare Bausteine für zukünftige Projekte
 
 
+## 📸 Screenshots 
+<img src="https://raw.githubusercontent.com/Andre1974/kingnetz_sec_react/refs/heads/main/public/screen1.png" alt="Website Screen1" width="600">
+
+<img src="https://raw.githubusercontent.com/Andre1974/kingnetz_sec_react/refs/heads/main/public/screen2.png" alt="Website Screen2" width="600">
+
 
 ## 📈 Roadmap
 
